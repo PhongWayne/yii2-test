@@ -1,0 +1,18 @@
+{
+    "name": "tm/yii2-test",
+    "description": "Testing",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "wayne",
+            "email": "wayne@vietnamcubator.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tm\\test\\": "src/"
+        }
+    }
+}
