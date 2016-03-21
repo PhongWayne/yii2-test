@@ -1,5 +1,5 @@
 <?php
-namespace tm\test;
+namespace targetmedia\test;
 class SayHello
 {
     public static function world()
